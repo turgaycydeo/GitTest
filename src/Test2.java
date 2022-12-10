@@ -1,3 +1,3 @@
 public class Test2 {
-  // change at guthub
+  // change at github
 }
