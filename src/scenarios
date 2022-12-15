@@ -1,0 +1,21 @@
+Scenario 1
+
+Create a project named Arrays, create a class named MergedArrays,
+add gitignore file, share your project at github,
+add three of your group members as collaborators
+protect your master branch with at least 2 reviewers to approve for merging,
+then create a new branch from the master, name the new branch as sdet1,
+then write a program on this sdet1 branch which can merge two arrays of integers.
+Ex:arr1 = {1,2,3,4} arr2 = {5,6,7,8} output arr3 = {1,2,3,4,5,6,7,8},
+ then commit and push your  changes, create a pull request,
+make sure that at least two (Reviewers- pls check the code, and act as needed), if everything is fine merge the requests, after merging make necessary changes at your local repositories.
+
+Scenario 2
+
+Go to GitHub and clone this project
+https://github.com/turgaycydeo/Group23GitHubPractice.git
+then create a new branch from the master, name the new branch as tester1,
+Write a program that can convert numbers 0~9 to words on Numbers class ( input 0-->output zero)
+Alen, Fatma and Igor pls use if statements and the other group members pls use ternary
+then commit and push your  changes, create a pull request,
+We will continue this project and resolve the conflicts during group meeting.
